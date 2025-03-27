@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Dlandaburu/Dlandaburu/output/snake.svg" alt="Snake animation" />
 
 ###
