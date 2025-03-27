@@ -1,20 +1,15 @@
 <div align="center">
-  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0NGR1cnh4dm5hbDN1bm93cWliZW9pdjAxeXJhenRrcjJ2bmFuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUucK24XyuAy9a0/giphy.gif"  />
+<div align="center">
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0NGR1cnh4dm5hbDN1bm93cWliZW9pdjAxeXJhenRrcjJ2bmFuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUucK24XyuAy9a0/giphy.gif"  />
 </div>
 
 ###
 
-<h2 align="center">What's up, guy?</h2>
+<h1 align="center">What's up, guy?</h1>
 
 ###
 
-<p align="left">Hi im Denis, im 20, in 2024 i finished a course of Graphic design but I due a bad desicion and now im in programing.</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dlandaburu/Dlandaburu/output/snake.svg" alt="Snake animation" />
+<p align="left">Hi im Denis, now im 20, in 2024 i finished a course of Graphic design but I due a bad desicion and now im in programing.</p>
 
 ###
 
@@ -38,4 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
 </div>
 
+###
 ###
